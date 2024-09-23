@@ -8,7 +8,6 @@ const { fileUpload, fileValidation } = require("../../utils/fileUpload.js");
 
 const {
   SignUp,
-  activateAcountSchema,
   confirmUser,
   SignIn,
   GetProfileById,
